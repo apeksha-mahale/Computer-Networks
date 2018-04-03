@@ -1,0 +1,6 @@
+The Throughput of FTP application is 37714 Bytes per second 
+The Throughput of CBR application is 74678 Bytes per second 
+The Throughput of FTP application is 12537 Bytes per second 
+The Throughput of CBR application is 72491 Bytes per second 
+The Throughput of FTP application is 12537 Bytes per second 
+The Throughput of CBR application is 72491 Bytes per second 

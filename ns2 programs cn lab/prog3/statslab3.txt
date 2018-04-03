@@ -1,0 +1,18 @@
+No of packets sent
+Tcp : 936
+Udp : 5132
+No of packets sent
+Tcp : 936
+Udp : 5132
+No of packets sent
+Tcp : 3774
+Udp : 5166
+No of packets sent
+Tcp : 6696
+Udp : 5166
+No of packets sent
+Tcp : 9630
+Udp : 5166
+No of packets sent
+Tcp : 9630
+Udp : 5166
